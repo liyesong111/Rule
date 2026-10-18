@@ -1,0 +1,17 @@
+# archive
+DOMAIN-SUFFIX,archive.today
+DOMAIN-SUFFIX,archive.ph
+DOMAIN-SUFFIX,archive.is
+DOMAIN-SUFFIX,archive.li
+DOMAIN-SUFFIX,archive.md
+DOMAIN-SUFFIX,archive.vn
+DOMAIN-SUFFIX,archive.fo
+
+# dlsite
+DOMAIN-SUFFIX,dlsite.com
+DOMAIN-SUFFIX,dlsite.jp
+DOMAIN-SUFFIX,dlsite.net
+
+# 其他
+DOMAIN-SUFFIX,chobit.cc
+DOMAIN-SUFFIX,dojindb.net
