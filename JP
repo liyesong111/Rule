@@ -12,6 +12,12 @@ DOMAIN-SUFFIX,dlsite.com
 DOMAIN-SUFFIX,dlsite.jp
 DOMAIN-SUFFIX,dlsite.net
 
+# melonbook
+DOMAIN-SUFFIX,melonbooks.co.jp
+DOMAIN-SUFFIX,melonbooks.com
+DOMAIN-SUFFIX,melonbooks.akamaized.net
+
+
 # 其他
 DOMAIN-SUFFIX,chobit.cc
 DOMAIN-SUFFIX,dojindb.net
